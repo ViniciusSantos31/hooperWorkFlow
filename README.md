@@ -35,5 +35,5 @@ Nesse aqui temos a barra de navegação entre os projetos que estão separados e
 
 ![CardProject](./web/src/assets/cardproject.jpg)
 
-No CardProject temos as informações básicas sobre algum projeto como, Nome e progresso (representado pela barra verde embaixo). Contamos também com um link que nos leva
+No CardProject temos as informações básicas sobre algum projeto como, Nome e progresso (representado pela barra verde embaixo). Contamos também com um link ("+ Detalhes") que nos leva
 para a tela com mais informações do projeto.
