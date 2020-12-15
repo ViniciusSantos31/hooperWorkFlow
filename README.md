@@ -5,6 +5,7 @@ O WorkFlow é um projeto que foi pensado no intuito de organizar todos os trabal
 # Telas
 
 - Home
+<img src="./web/src/assets/home.jpg" />
 	> Na tela inicial nós temos 4 componentes que são:
 	> - Header
 	> - User
