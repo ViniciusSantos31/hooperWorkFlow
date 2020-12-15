@@ -14,13 +14,13 @@ O WorkFlow é um projeto que foi pensado no intuito de organizar todos os trabal
 	> - CardProject
 	
 **Header**
-  _IMAGEM AQUI_
+![Home](./web/src/assets/header.jpg)
   
 **User**
-  _IMAGEM AQUI_
+![User](./web/src/assets/user.jpg)
   
 **Navigation**
-  _IMAGEM AQUI_
-  
+![Navigation](./web/src/assets/navigation.jpg)
+
 **CardProject**
-  _IMAGEM AQUI_
+![CardProject](./web/src/assets/cardproject.jpg)
