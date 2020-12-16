@@ -11,6 +11,7 @@ declare module 'styled-components' {
             background: string,
             hover: string,
             text: string,
+            progress: string,
         }
     }
 }

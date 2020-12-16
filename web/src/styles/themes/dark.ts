@@ -7,6 +7,7 @@ export default {
 
         background: "#f5f5f5",
         hover: '#171717',
-        text: "#fff"
+        text: "#fff",
+        progress: "#459C00",
     }
 }
