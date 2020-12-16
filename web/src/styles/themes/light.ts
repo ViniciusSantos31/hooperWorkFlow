@@ -8,5 +8,6 @@ export default {
         background: "#f5f5f5",
         hover: "#bababa",
         text: "#fff",
+        progress: "#459C00",
     }
 }

@@ -8,8 +8,11 @@ import dark from './styles/themes/dark';
 
 import usePersistedState from './utils/usePersistedState';
 import User from './components/User/user';
-import { Body } from './components/Body/body';
+import { Body, GridBody } from './components/Body/body';
 import Navigation from './components/Navigation/navigation';
+import CardProject from './components/CardProject/cardproject';
+
+import { ProgressBar } from 'react-bootstrap';
 
 function App() {
 
@@ -26,9 +29,16 @@ function App() {
         <Header toggleTheme={toggleTheme} />
         <User />
         <Navigation />
+        
         <Body>
+          <GridBody>
 
+            <CardProject progress={10} title="WorkFlow"/>
+            <CardProject progress={70} title="Site Nutrição"/>
+
+          </GridBody>
         </Body>
+
       </div>
     </ThemeProvider>
   );
